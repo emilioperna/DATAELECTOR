@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.3",
- "generato": "2026-06-20T14:49:05",
- "n_files": 225,
+ "versione": "v2026.4",
+ "generato": "2026-06-20T18:47:28",
+ "n_files": 241,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -1583,9 +1583,9 @@
   },
   {
    "path": "NAZIONALI/2018/politiche2018_camera.parquet",
-   "sha256": "fb3854574b128a66411dd2351bc792f6bd1bad21412a302ba27052bb5ec6179e",
-   "bytes": 398317,
-   "righe": 133329,
+   "sha256": "2acac5d97106e3b08301829797e1cca63c8f4ff30381f4fabeb5e5ec9abf710f",
+   "bytes": 398121,
+   "righe": 133345,
    "livello": "NAZIONALI",
    "id_elezione": "politiche2018_camera",
    "data": "2018-03-04",
@@ -1595,9 +1595,9 @@
   },
   {
    "path": "NAZIONALI/2018/politiche2018_camera.csv.gz",
-   "sha256": "b05dcafe823dab004f2b7733bbab5477c8df999f91bdab4fed22b0da80b54b7d",
-   "bytes": 720730,
-   "righe": 133329,
+   "sha256": "71512ca4ff7e42cf9eba946520f791004fd27891abcad222c8c6ea7f76e1529b",
+   "bytes": 720807,
+   "righe": 133345,
    "livello": "NAZIONALI",
    "id_elezione": "politiche2018_camera",
    "data": "2018-03-04",
@@ -2561,8 +2561,151 @@
    "validazione": "warn"
   },
   {
+   "path": "geometrie/2012/comuni.geojson",
+   "sha256": "257c67039284538d6e02f164a87a3e48e8a45a2aafe0a294dfb10317c16daf6e",
+   "bytes": 92439,
+   "righe": 136,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2012
+  },
+  {
+   "path": "geometrie/2013/comuni.geojson",
+   "sha256": "52689e16796887a07947882ff7175156d74da24203d2b13fc5d9fbbf8e30c38f",
+   "bytes": 5606611,
+   "righe": 8018,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2013
+  },
+  {
+   "path": "geometrie/2014/comuni.geojson",
+   "sha256": "64abae55320688d2e46e118273184419e61fdf4181260cd54b36d53bd728918c",
+   "bytes": 5640958,
+   "righe": 8057,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2014
+  },
+  {
+   "path": "geometrie/2015/comuni.geojson",
+   "sha256": "9640ca0c618bbd638aeb6479c8570d4c6d56f6dfb1fd079c334568b74a1c13eb",
+   "bytes": 2056641,
+   "righe": 2711,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2015
+  },
+  {
+   "path": "geometrie/2016/comuni.geojson",
+   "sha256": "a593938c527ab5f63b06e115e7a0ab76cb49b748f65e6e0b4fce248a0b38f50c",
+   "bytes": 901994,
+   "righe": 1276,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2016
+  },
+  {
+   "path": "geometrie/2017/comuni.geojson",
+   "sha256": "cbd15ee16904d4fe6cb3f598ee0e420cdccfadfbde06a943f7abadab7ab43f8a",
+   "bytes": 628042,
+   "righe": 848,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2017
+  },
+  {
+   "path": "geometrie/2018/comuni.geojson",
+   "sha256": "36bb0b6518dddf0a977f533adb6846edad775bec6de6077a5fc011580082ebc2",
+   "bytes": 5903846,
+   "righe": 8342,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2018
+  },
+  {
+   "path": "geometrie/2019/comuni.geojson",
+   "sha256": "02a31f1e0a1c9b60e7703893a9d5bfe18f85502a8cda9ba60b160abeb1184558",
+   "bytes": 5568460,
+   "righe": 7915,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2019
+  },
+  {
+   "path": "geometrie/2020/comuni.geojson",
+   "sha256": "010a1284b8ce73cd919b99cf295666b4d887ee218ab5267ec7ba379cd3cdfaa0",
+   "bytes": 2356654,
+   "righe": 3086,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2020
+  },
+  {
+   "path": "geometrie/2021/comuni.geojson",
+   "sha256": "c5dfbd80742dcc07f110108bd421f53581e48da8f3eb15b015dadb2073e8ba9b",
+   "bytes": 1125609,
+   "righe": 1578,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2021
+  },
+  {
+   "path": "geometrie/2022/comuni.geojson",
+   "sha256": "6c5d9a088bffe1f79bd82bfca9ee18bab7fad53aad66d9b50d46b4a3a96a4e42",
+   "bytes": 5504977,
+   "righe": 7852,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2022
+  },
+  {
+   "path": "geometrie/2023/comuni.geojson",
+   "sha256": "f45c7378ffa59e89e5c055de6e92c5818d74bb9eb99fefb4f4582982dbe9828a",
+   "bytes": 1444611,
+   "righe": 2368,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2023
+  },
+  {
+   "path": "geometrie/2024/comuni.geojson",
+   "sha256": "3d0daef4d07383ca768dddfa4d9fc6a31371c282292fffbc13c5c89545715aae",
+   "bytes": 5532479,
+   "righe": 7896,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2024
+  },
+  {
+   "path": "geometrie/2025/comuni.geojson",
+   "sha256": "7922992d71bb0e7e6e71c1a9d35f0df3f488e4f91d7573e245cb1a9d830988eb",
+   "bytes": 1587417,
+   "righe": 2117,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2025
+  },
+  {
+   "path": "geometrie/2026/comuni.geojson",
+   "sha256": "6fcc6b1a0918d95652cb8eac566543700c96c4cd3485971a539c20e3347ae3cd",
+   "bytes": 456937,
+   "righe": 661,
+   "livello": "geometrie",
+   "formato": "geojson",
+   "vintage": 2026
+  },
+  {
+   "path": "geometrie/canonico/comuni.geojson",
+   "sha256": "6faefe3316874979a5c6d72f58562b2ec3d853d79d99bf293dece6e14ea4c6e4",
+   "bytes": 5829259,
+   "righe": 7894,
+   "livello": "geometrie",
+   "formato": "geojson"
+  },
+  {
    "path": "README.md",
-   "sha256": "d0b3cc463a8d13b3fc5428a350e72b7b628cf46de46822d1a7ebae6e44c856de",
+   "sha256": "238639d27f3b3e289721c47f5c801f0ae54941fab4d0c7efce5e33730d3d30da",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2582,15 +2725,15 @@
   },
   {
    "path": "schema/colonne.md",
-   "sha256": "e92ab00a7d03c665dce108b67fcfe632f2a4d24ace7e236c14d7e647695066e3",
-   "bytes": 1601,
+   "sha256": "1354f14ca252d1cd3f2c3dae3d0c749306da77b2f48ea01d6bcb477fd1891083",
+   "bytes": 1978,
    "livello": "schema",
    "formato": "md"
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "4d5432901068f57ee2e80535a6810fb72ae6ef8660cba7628b1be4e6ea689186",
-   "bytes": 167,
+   "sha256": "68b96cf0c256f8517afb7d7aa63feab5a7d2f8323c0d44b5ac089f63930e2507",
+   "bytes": 244,
    "livello": "docs",
    "formato": "md"
   }

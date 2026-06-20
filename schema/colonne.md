@@ -27,4 +27,8 @@ Suffisso `__affluenza` = elettori/votanti/bianche/nulle per comune; `__struttura
 `territori/successioni.parquet` — eventi datati (fusione/ricodifica): codice_da→codice_a.
 `territori/comune_lignaggio.parquet` — genealogia navigabile di ogni luogo.
 
+## Livello geometrico (se presente)
+
+`geometrie/<vintage>/comuni.geojson` — confini comunali al 1° gennaio di quell'anno (ISTAT generalizzati), keyed per `codice_storico` = il comune com'era al voto → mappa tempo-corretta (la mappa 2013 coi confini 2013). `geometrie/canonico/comuni.geojson` = confini di oggi, keyed per `codice_canonico`. Geometrie open data ISTAT.
+
 Vedi `METODOLOGIA.md` per armonizzazione, asimmetria fusione/scorporo, strati di fiducia.
