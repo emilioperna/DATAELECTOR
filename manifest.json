@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.2",
- "generato": "2026-06-20T13:12:30",
+ "versione": "v2026.3",
+ "generato": "2026-06-20T14:49:05",
  "n_files": 225,
  "files": [
   {
@@ -1583,9 +1583,9 @@
   },
   {
    "path": "NAZIONALI/2018/politiche2018_camera.parquet",
-   "sha256": "51310b9674eaa099d9bc548aceb434c1bf52b041d755e5176139eee3edcdc30a",
-   "bytes": 399779,
-   "righe": 133181,
+   "sha256": "fb3854574b128a66411dd2351bc792f6bd1bad21412a302ba27052bb5ec6179e",
+   "bytes": 398317,
+   "righe": 133329,
    "livello": "NAZIONALI",
    "id_elezione": "politiche2018_camera",
    "data": "2018-03-04",
@@ -1595,9 +1595,9 @@
   },
   {
    "path": "NAZIONALI/2018/politiche2018_camera.csv.gz",
-   "sha256": "8fbacd2a1bbd0e6c20d77c8ac3c0b8e2dab8ff51f6e83a95cc0f31acc176520b",
-   "bytes": 719530,
-   "righe": 133181,
+   "sha256": "b05dcafe823dab004f2b7733bbab5477c8df999f91bdab4fed22b0da80b54b7d",
+   "bytes": 720730,
+   "righe": 133329,
    "livello": "NAZIONALI",
    "id_elezione": "politiche2018_camera",
    "data": "2018-03-04",
@@ -2562,7 +2562,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "35263024ef821aa16ab8d81f01534a90543e25f40513c2d4a1f6a7ced27a4f71",
+   "sha256": "d0b3cc463a8d13b3fc5428a350e72b7b628cf46de46822d1a7ebae6e44c856de",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2589,8 +2589,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "9a97128316cb67eafba5184375754f645344856f8955c6afc912677d59a526c7",
-   "bytes": 91,
+   "sha256": "4d5432901068f57ee2e80535a6810fb72ae6ef8660cba7628b1be4e6ea689186",
+   "bytes": 167,
    "livello": "docs",
    "formato": "md"
   }
