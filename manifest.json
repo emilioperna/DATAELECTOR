@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.4",
- "generato": "2026-06-20T18:47:28",
- "n_files": 241,
+ "versione": "v2026.5",
+ "generato": "2026-06-20T22:46:18",
+ "n_files": 237,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -1430,53 +1430,6 @@
    "validazione": "ok"
   },
   {
-   "path": "COMUNALI/2026/comunali_20260524.parquet",
-   "sha256": "c267b5216b1c33c67686e41035938dcbae8b0fe7070712a1d81845a322794539",
-   "bytes": 55625,
-   "righe": 2696,
-   "livello": "COMUNALI",
-   "id_elezione": "comunali_20260524",
-   "data": "2026-05-24",
-   "formato": "parquet",
-   "vintage": 2026,
-   "validazione": "ok"
-  },
-  {
-   "path": "COMUNALI/2026/comunali_20260524.csv.gz",
-   "sha256": "1e23a2f46efa9055548e916fae0724f793f834cb9ed14d5f790aac4d1d079e6f",
-   "bytes": 37733,
-   "righe": 2696,
-   "livello": "COMUNALI",
-   "id_elezione": "comunali_20260524",
-   "data": "2026-05-24",
-   "formato": "csv.gz",
-   "validazione": "ok"
-  },
-  {
-   "path": "COMUNALI/2026/comunali_20260524__affluenza.parquet",
-   "sha256": "7c0275ef879ce345c1c3ab6a009233dd426b75d85fa7257f8ee7f7c0f3e503d2",
-   "bytes": 16318,
-   "righe": 661,
-   "livello": "COMUNALI",
-   "id_elezione": "comunali_20260524",
-   "data": "2026-05-24",
-   "formato": "parquet",
-   "vintage": 2026,
-   "validazione": "ok"
-  },
-  {
-   "path": "COMUNALI/2026/comunali_20260524__struttura.parquet",
-   "sha256": "48bbe05957e35a3b161cbee2ab82bf86e9f3b7086b296a7218f323867687bcc5",
-   "bytes": 78399,
-   "righe": 2696,
-   "livello": "COMUNALI",
-   "id_elezione": "comunali_20260524",
-   "data": "2026-05-24",
-   "formato": "parquet",
-   "vintage": 2026,
-   "validazione": "ok"
-  },
-  {
    "path": "EUROPEE/2014/europee_20140525.parquet",
    "sha256": "c277d69d9544ee0dc9ac42d1fe4ffd0b6e6f982a8f6068cdd4fc6116c6c31bf2",
    "bytes": 307051,
@@ -2705,7 +2658,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "238639d27f3b3e289721c47f5c801f0ae54941fab4d0c7efce5e33730d3d30da",
+   "sha256": "c41bb48d6bb365fa2134bb6248d2580d43115e8d1ca326b768cc7911cbea3854",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2732,8 +2685,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "68b96cf0c256f8517afb7d7aa63feab5a7d2f8323c0d44b5ac089f63930e2507",
-   "bytes": 244,
+   "sha256": "540add5287e8113bbf32a8545f594697e863662d29c446ebd4c65b5c4ff7239e",
+   "bytes": 320,
    "livello": "docs",
    "formato": "md"
   }
