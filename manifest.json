@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.5",
- "generato": "2026-06-20T22:46:18",
+ "versione": "v2026.6",
+ "generato": "2026-06-21T11:46:35",
  "n_files": 237,
  "files": [
   {
@@ -1501,26 +1501,28 @@
   },
   {
    "path": "EUROPEE/2024/europee_20240609.parquet",
-   "sha256": "109180da1475657d67608b6ef5cd335eca2f94a4bf9e74783a55ebbdffa7c1ca",
-   "bytes": 306852,
+   "sha256": "8edfc1e7b333208293dd3a01e376519f9e3165ead9b3cf160ecfe6441e99ec33",
+   "bytes": 307438,
    "righe": 93984,
    "livello": "EUROPEE",
    "id_elezione": "europee_20240609",
    "data": "2024-06-09",
    "formato": "parquet",
    "vintage": 2024,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "EUROPEE/2024/europee_20240609.csv.gz",
-   "sha256": "e485247587854a1e44e1b0975ac41ccad9b86472555a9654e698fd4b8fe05d13",
-   "bytes": 530818,
+   "sha256": "0a0adbffd177d2c68e39849f8927c5249d32f1a47f7b3549537851f78c168572",
+   "bytes": 519698,
    "righe": 93984,
    "livello": "EUROPEE",
    "id_elezione": "europee_20240609",
    "data": "2024-06-09",
    "formato": "csv.gz",
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "EUROPEE/2024/europee_20240609__affluenza.parquet",
@@ -1532,7 +1534,8 @@
    "data": "2024-06-09",
    "formato": "parquet",
    "vintage": 2024,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "NAZIONALI/2018/politiche2018_camera.parquet",
@@ -2658,7 +2661,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "c41bb48d6bb365fa2134bb6248d2580d43115e8d1ca326b768cc7911cbea3854",
+   "sha256": "112ce9de1de5a13f31b5208eebedb8b3e6f6b0ccc8f990f6915bae96da0fcd3b",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2685,8 +2688,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "540add5287e8113bbf32a8545f594697e863662d29c446ebd4c65b5c4ff7239e",
-   "bytes": 320,
+   "sha256": "cd2e1901535fdf936c5eeeaaec93650ccd8e9f1d30d18b6300e6ae3308419bb0",
+   "bytes": 396,
    "livello": "docs",
    "formato": "md"
   }
