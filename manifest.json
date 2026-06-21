@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.6",
- "generato": "2026-06-21T11:46:35",
- "n_files": 237,
+ "versione": "v2026.7",
+ "generato": "2026-06-21T20:06:23",
+ "n_files": 253,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -467,6 +467,53 @@
    "validazione": "ok"
   },
   {
+   "path": "COMUNALI/2019/comunali_20190428.parquet",
+   "sha256": "e7345f200e617c3b5f38f42318427b086a5fcf60d0f13dfd00caf9ceb7b925b3",
+   "bytes": 5758,
+   "righe": 101,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20190428",
+   "formato": "parquet",
+   "vintage": 2019,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2019/comunali_20190428.csv.gz",
+   "sha256": "5aab2828fbb70ca2170e9df3c9662682bcf2c437d2e3212d95d75979db1ee112",
+   "bytes": 2518,
+   "righe": 101,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20190428",
+   "formato": "csv.gz",
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2019/comunali_20190428__affluenza.parquet",
+   "sha256": "74edc49e1885f95874ac3606ede94d0de60c509688f775d60acc7087bd3db081",
+   "bytes": 2418,
+   "righe": 29,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20190428",
+   "formato": "parquet",
+   "vintage": 2019,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2019/comunali_20190428__struttura.parquet",
+   "sha256": "bb8916ff0e1ff6f3ceb980ee9b14d0ba57532e12cbfa9d383d26147ad7c81ea0",
+   "bytes": 7420,
+   "righe": 101,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20190428",
+   "formato": "parquet",
+   "vintage": 2019,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
    "path": "COMUNALI/2019/comunali_20190526.parquet",
    "sha256": "f62115be0aa88e1816ef07a13a2747d644dc52e40c9087b95f723327b071ddee",
    "bytes": 196349,
@@ -796,6 +843,53 @@
    "validazione": "ok"
   },
   {
+   "path": "COMUNALI/2020/comunali_20201004.parquet",
+   "sha256": "932045b9c328b28205786fc3c7c30b88d496bf502d26054a48a3e7dd0215f66d",
+   "bytes": 10965,
+   "righe": 283,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20201004",
+   "formato": "parquet",
+   "vintage": 2020,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2020/comunali_20201004.csv.gz",
+   "sha256": "a21921f268ba828de9cd064301f621e4d3dd2cd6c0c8c2754ca02de378015685",
+   "bytes": 5713,
+   "righe": 283,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20201004",
+   "formato": "csv.gz",
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2020/comunali_20201004__affluenza.parquet",
+   "sha256": "aa27a844f8a4960e627ac08fa3e652491c9b4a7a4fa83886e02d17bad42b2739",
+   "bytes": 3101,
+   "righe": 56,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20201004",
+   "formato": "parquet",
+   "vintage": 2020,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2020/comunali_20201004__struttura.parquet",
+   "sha256": "012f96893c0d7b7d7945488a7f7dfcfe5579be036be144c1d3f60826d666c28c",
+   "bytes": 13577,
+   "righe": 283,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20201004",
+   "formato": "parquet",
+   "vintage": 2020,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
    "path": "COMUNALI/2020/comunali_20201025.parquet",
    "sha256": "8870dd6d588a6f19db8964286d505be1d11bdcaa9ddad88accb6e3df39b2c188",
    "bytes": 10855,
@@ -891,50 +985,54 @@
   },
   {
    "path": "COMUNALI/2021/comunali_20211010.parquet",
-   "sha256": "9d9a978dc43e059c55862c183d6c7116eb8f385c53c33cd9523d60d47beceb7f",
-   "bytes": 7828,
-   "righe": 218,
+   "sha256": "7ba4058de9b802456c1f1c7b03c4cd137423848c3f64762cd9c8d066c429ce29",
+   "bytes": 12162,
+   "righe": 350,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20211010",
    "data": "2021-10-10",
    "formato": "parquet",
    "vintage": 2021,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2021/comunali_20211010.csv.gz",
-   "sha256": "05fe507a99b59a0de5456dc4ebfcbd51a70f664eec9464753649dd4400c2683a",
-   "bytes": 3921,
-   "righe": 218,
+   "sha256": "127234c201452c3a7cc2acd915d481214544faf3e5138954b76e072d3a9664bc",
+   "bytes": 6673,
+   "righe": 350,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20211010",
    "data": "2021-10-10",
    "formato": "csv.gz",
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2021/comunali_20211010__affluenza.parquet",
-   "sha256": "0c2180911724880d759bb5bd41132afe0c5b83821559dfc5c2741e6f45ccee77",
-   "bytes": 3613,
-   "righe": 98,
+   "sha256": "aaf3418619c79f31fa8de2d5c4b77766f0421028eadb60e213fe9b3a0ceb52a5",
+   "bytes": 4531,
+   "righe": 130,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20211010",
    "data": "2021-10-10",
    "formato": "parquet",
    "vintage": 2021,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2021/comunali_20211010__struttura.parquet",
-   "sha256": "1f8922bae8095521dd3b931d0d32675af472b16e63f20decfe5f95d709e77b73",
-   "bytes": 10505,
-   "righe": 218,
+   "sha256": "0b18221c9243daee5f4b16c79ef0753fc4aaaa10cbc375e1e64cf228bdd6f467",
+   "bytes": 15931,
+   "righe": 350,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20211010",
    "data": "2021-10-10",
    "formato": "parquet",
    "vintage": 2021,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2021/comunali_20211107.parquet",
@@ -985,50 +1083,54 @@
   },
   {
    "path": "COMUNALI/2022/comunali_20220612.parquet",
-   "sha256": "b4b87d8d772916f141e636d0e821ba725ab08f9b17de6230f68728c6e1fcfb09",
-   "bytes": 69924,
-   "righe": 3355,
+   "sha256": "ada5e08cffd86984e96eddeff7e2442a638d3005e97e4228c68ffd85ed42584e",
+   "bytes": 81476,
+   "righe": 3718,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20220612",
    "data": "2022-06-12",
    "formato": "parquet",
    "vintage": 2022,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2022/comunali_20220612.csv.gz",
-   "sha256": "00970568826aaf5ee209cc12cb6e8c442fff45d483ffaad4ec8048918b0340a4",
-   "bytes": 47026,
-   "righe": 3355,
+   "sha256": "a3bbefbd9e69bdd38939a23e4b708bba49568e40878cca805d528032d1e40589",
+   "bytes": 55251,
+   "righe": 3718,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20220612",
    "data": "2022-06-12",
    "formato": "csv.gz",
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2022/comunali_20220612__affluenza.parquet",
-   "sha256": "9522353a0712a0e3de6e2c41f3330509be3995c575ea5cfff84b2717e4ae73ad",
-   "bytes": 17784,
-   "righe": 818,
+   "sha256": "7fcab4287a696449f731faec5fa573c909b2a192871ffebc019822fa19f2af88",
+   "bytes": 20198,
+   "righe": 932,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20220612",
    "data": "2022-06-12",
    "formato": "parquet",
    "vintage": 2022,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2022/comunali_20220612__struttura.parquet",
-   "sha256": "1eb16c03d18193013a5812e2971b24455ad12a07c474872785e8d0950fc0024b",
-   "bytes": 98309,
-   "righe": 3355,
+   "sha256": "f75ea9fa7dcf557cfc21445bb7a830b6cd3fb5e3f8bbc27a17478064b291db47",
+   "bytes": 113950,
+   "righe": 3718,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20220612",
    "data": "2022-06-12",
    "formato": "parquet",
    "vintage": 2022,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2022/comunali_20221127.parquet",
@@ -1114,50 +1216,54 @@
   },
   {
    "path": "COMUNALI/2023/comunali_20230528.parquet",
-   "sha256": "f43c12c11aa08cc384a837e22624afe0481de104910213301d113c482439332f",
-   "bytes": 4583,
-   "righe": 95,
+   "sha256": "4291d7b8b97349bdaca5535f2e05ca66364f8b1fbae5b403befe3dd4ab165059",
+   "bytes": 18156,
+   "righe": 509,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20230528",
    "data": "2023-05-28",
    "formato": "parquet",
    "vintage": 2023,
-   "validazione": "warn"
+   "validazione": "warn",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2023/comunali_20230528.csv.gz",
-   "sha256": "6af258f1a6eef339d35a60ba63eee0df643a277ba8983e43d80347afd0f250d8",
-   "bytes": 1884,
-   "righe": 95,
+   "sha256": "7bf78761d9221de7916aba59776ecbe7afb37e64626cf5f864a4fc3a37e0409d",
+   "bytes": 10469,
+   "righe": 509,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20230528",
    "data": "2023-05-28",
    "formato": "csv.gz",
-   "validazione": "warn"
+   "validazione": "warn",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2023/comunali_20230528__affluenza.parquet",
-   "sha256": "dd736fc36f983587ceae1c38a5d138b034553c9cfe94fa6b2ba40c0ddbeb196c",
-   "bytes": 2441,
-   "righe": 39,
+   "sha256": "1931aa31c396958746316c0542b00ab6b6961db99d2b74b753394f5a79df0d1c",
+   "bytes": 5281,
+   "righe": 163,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20230528",
    "data": "2023-05-28",
    "formato": "parquet",
    "vintage": 2023,
-   "validazione": "warn"
+   "validazione": "warn",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2023/comunali_20230528__struttura.parquet",
-   "sha256": "9a6e1d14a0bd70d1bd50a1814761efc3b78f982b115a1a88e529d7fe2e8ec045",
-   "bytes": 6125,
-   "righe": 95,
+   "sha256": "c593ac7ae100353966d86a51d2bdfb58160d55fb0402a8d4d0c0f5ac9600def2",
+   "bytes": 23165,
+   "righe": 509,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20230528",
    "data": "2023-05-28",
    "formato": "parquet",
    "vintage": 2023,
-   "validazione": "warn"
+   "validazione": "warn",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2023/comunali_20231022.parquet",
@@ -1205,6 +1311,53 @@
    "formato": "parquet",
    "vintage": 2023,
    "validazione": "ok"
+  },
+  {
+   "path": "COMUNALI/2024/comunali_20240608.parquet",
+   "sha256": "3c94b8caeaedfcd108c1ba0e9f203fcd38205f66adfd7458f70f700fa2a8ebff",
+   "bytes": 6306,
+   "righe": 131,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20240608",
+   "formato": "parquet",
+   "vintage": 2024,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2024/comunali_20240608.csv.gz",
+   "sha256": "15527424d3b7deef29a65a9cf5fa1f675c3d8fd58103f23d40b72c2c1eaaf4f4",
+   "bytes": 2943,
+   "righe": 131,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20240608",
+   "formato": "csv.gz",
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2024/comunali_20240608__affluenza.parquet",
+   "sha256": "d88ae374655070c17844b33373edece787842f65c38a9af99e9b0fa189742f9b",
+   "bytes": 2536,
+   "righe": 34,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20240608",
+   "formato": "parquet",
+   "vintage": 2024,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2024/comunali_20240608__struttura.parquet",
+   "sha256": "7d26b8d8b4946fd43de8d7020983fadbd7587f4ccc5d6d9e307382f3ced619e0",
+   "bytes": 8089,
+   "righe": 131,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20240608",
+   "formato": "parquet",
+   "vintage": 2024,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "COMUNALI/2024/comunali_20240609.parquet",
@@ -1428,6 +1581,57 @@
    "formato": "parquet",
    "vintage": 2025,
    "validazione": "ok"
+  },
+  {
+   "path": "COMUNALI/2026/comunali_20260524.parquet",
+   "sha256": "0466239f06a4266da0e8037fe2e94212869c16cf2fcfbc0cf972de9ef3f92c0f",
+   "bytes": 65560,
+   "righe": 3020,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "vintage": 2026,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2026/comunali_20260524.csv.gz",
+   "sha256": "af2a8f08eb12296d94d67d5a9b99790385be8fa4aebbc51e00c56cc5ac74d42a",
+   "bytes": 44145,
+   "righe": 3020,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "csv.gz",
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2026/comunali_20260524__affluenza.parquet",
+   "sha256": "c138f15e1bdc183bc20d02899ba22e1a9f75f23898c0c28f36910e01112ac4ca",
+   "bytes": 17714,
+   "righe": 729,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "vintage": 2026,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
+  },
+  {
+   "path": "COMUNALI/2026/comunali_20260524__struttura.parquet",
+   "sha256": "a2af43148b8461cdc55359128f11829b44ef3cb551b4385d63fd1306298b3941",
+   "bytes": 90542,
+   "righe": 3020,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "vintage": 2026,
+   "validazione": "ok",
+   "fonte": "regione_siciliana"
   },
   {
    "path": "EUROPEE/2014/europee_20140525.parquet",
@@ -2308,26 +2512,28 @@
   },
   {
    "path": "REGIONALI/2025/regionali_20251005.parquet",
-   "sha256": "6245a34dd565dbe353ff7bb78bee7857c52288db2900438f1bd2e612c618977a",
-   "bytes": 21664,
-   "righe": 6464,
+   "sha256": "6c28727d914faf37fa512f6a1a44b76fe4f491e63c1f0f44a3632d9af69c1112",
+   "bytes": 21153,
+   "righe": 6060,
    "livello": "REGIONALI",
    "id_elezione": "regionali_20251005",
    "data": "2025-10-05",
    "formato": "parquet",
    "vintage": 2025,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "REGIONALI/2025/regionali_20251005.csv.gz",
-   "sha256": "3ef3130a417101666251ef040d157cb584978f455aebf4f5a0ec07f7639d7025",
-   "bytes": 38083,
-   "righe": 6464,
+   "sha256": "2ac5bfafdd74bb095e9fc67a9d95160a95e9a4e73ee3767d8c4d97b06ab637df",
+   "bytes": 35827,
+   "righe": 6060,
    "livello": "REGIONALI",
    "id_elezione": "regionali_20251005",
    "data": "2025-10-05",
    "formato": "csv.gz",
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "REGIONALI/2025/regionali_20251005__affluenza.parquet",
@@ -2339,7 +2545,8 @@
    "data": "2025-10-05",
    "formato": "parquet",
    "vintage": 2025,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "REGIONALI/2025/regionali_20251012.parquet",
@@ -2378,26 +2585,28 @@
   },
   {
    "path": "REGIONALI/2025/regionali_20251123.parquet",
-   "sha256": "be87dedc5b9aba5e6e9fdc9918920b023c787387381513ee1fd7ba250952eb9d",
-   "bytes": 76745,
-   "righe": 25671,
+   "sha256": "60041d1e8d60520d10efe7f5be5565e1f7bbc6f79fc0e13ec36262db1b86ca32",
+   "bytes": 72358,
+   "righe": 22957,
    "livello": "REGIONALI",
    "id_elezione": "regionali_20251123",
    "data": "2025-11-23",
    "formato": "parquet",
    "vintage": 2025,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "REGIONALI/2025/regionali_20251123.csv.gz",
-   "sha256": "b5db39670f5317dee8bcf7ca87d5161a736dec0cc55c15698355ba826391777b",
-   "bytes": 157612,
-   "righe": 25671,
+   "sha256": "ff81c36cfd76b944171da05e42f5086e4ec00cdec3eb7814b8e8954caf5e2b91",
+   "bytes": 139037,
+   "righe": 22957,
    "livello": "REGIONALI",
    "id_elezione": "regionali_20251123",
    "data": "2025-11-23",
    "formato": "csv.gz",
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "REGIONALI/2025/regionali_20251123__affluenza.parquet",
@@ -2409,7 +2618,8 @@
    "data": "2025-11-23",
    "formato": "parquet",
    "vintage": 2025,
-   "validazione": "ok"
+   "validazione": "ok",
+   "fonte": "storico"
   },
   {
    "path": "NAZIONALI/2013/senato_20130224.parquet",
@@ -2661,7 +2871,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "112ce9de1de5a13f31b5208eebedb8b3e6f6b0ccc8f990f6915bae96da0fcd3b",
+   "sha256": "bbbd45bef53bb55d1f867c5640a808f7406cd4200c24fb884b688598c5a40f04",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2688,8 +2898,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "cd2e1901535fdf936c5eeeaaec93650ccd8e9f1d30d18b6300e6ae3308419bb0",
-   "bytes": 396,
+   "sha256": "11b058d603c6f153a49e2a332be5c541c085ab638326cbd2ad3d7d777b10a23d",
+   "bytes": 474,
    "livello": "docs",
    "formato": "md"
   }
