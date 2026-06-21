@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.7",
- "generato": "2026-06-21T20:06:23",
- "n_files": 253,
+ "versione": "v2026.8",
+ "generato": "2026-06-21T20:39:58",
+ "n_files": 257,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -1442,6 +1442,53 @@
    "validazione": "warn"
   },
   {
+   "path": "COMUNALI/2025/comunali_20250504.parquet",
+   "sha256": "500e05e2638a5500e353f5a402754c6ca83dc4d15a1ab19d799dcb78c0f4a3a4",
+   "bytes": 8969,
+   "righe": 253,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20250504",
+   "formato": "parquet",
+   "vintage": 2025,
+   "validazione": "ok",
+   "fonte": "regione_trentino"
+  },
+  {
+   "path": "COMUNALI/2025/comunali_20250504.csv.gz",
+   "sha256": "c6662471fe539b831447323b87a962fbf9a0af2038dd600aba7d27d84308c2fb",
+   "bytes": 4609,
+   "righe": 253,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20250504",
+   "formato": "csv.gz",
+   "validazione": "ok",
+   "fonte": "regione_trentino"
+  },
+  {
+   "path": "COMUNALI/2025/comunali_20250504__affluenza.parquet",
+   "sha256": "f00426afa2b979f6c3708c5d4088b79f42be199d3f2c1d56165950029e6ae281",
+   "bytes": 4786,
+   "righe": 140,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20250504",
+   "formato": "parquet",
+   "vintage": 2025,
+   "validazione": "ok",
+   "fonte": "regione_trentino"
+  },
+  {
+   "path": "COMUNALI/2025/comunali_20250504__struttura.parquet",
+   "sha256": "b9995abbdae252e68ddf673c9aad64f19ada86e0d7cce471c98254b2cd967aec",
+   "bytes": 11618,
+   "righe": 253,
+   "livello": "COMUNALI",
+   "id_elezione": "comunali_20250504",
+   "formato": "parquet",
+   "vintage": 2025,
+   "validazione": "ok",
+   "fonte": "regione_trentino"
+  },
+  {
    "path": "COMUNALI/2025/comunali_20250525.parquet",
    "sha256": "f8b57e37ce8470b982ee83d52d93ab7fd49e33bf67f8f0f2a46ced0a32533995",
    "bytes": 17437,
@@ -2871,7 +2918,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "bbbd45bef53bb55d1f867c5640a808f7406cd4200c24fb884b688598c5a40f04",
+   "sha256": "ade565ea88a008d80e71260fe5d348f70e3f6f911b99045fca2f93b5ea099b4b",
    "bytes": 972,
    "livello": "docs",
    "formato": "md"
@@ -2898,8 +2945,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "11b058d603c6f153a49e2a332be5c541c085ab638326cbd2ad3d7d777b10a23d",
-   "bytes": 474,
+   "sha256": "4bbcb38fd9267c3787402df412986c27922354a54dbe93595226626f7d124973",
+   "bytes": 550,
    "livello": "docs",
    "formato": "md"
   }
