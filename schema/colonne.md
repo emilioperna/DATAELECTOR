@@ -31,4 +31,10 @@ Suffisso `__affluenza` = elettori/votanti/bianche/nulle per comune; `__struttura
 
 `geometrie/<vintage>/comuni.geojson` — confini comunali al 1° gennaio di quell'anno (ISTAT generalizzati), keyed per `codice_storico` = il comune com'era al voto → mappa tempo-corretta (la mappa 2013 coi confini 2013). `geometrie/canonico/comuni.geojson` = confini di oggi, keyed per `codice_canonico`. Geometrie open data ISTAT.
 
+## Sondaggi (Poll of Polls)
+
+`sondaggi/sondaggi_osservato.parquet` — un sondaggio per riga (id, realizzatore, committente, date di rilevazione/pubblicazione, campione, margine d'errore, somma %, fonte). Solo sondaggi VALIDATI (intenzioni di voto nazionali che riconciliano a ≈100%).
+`sondaggi/sondaggi_intenzioni.parquet` — le intenzioni di voto per (id_sondaggio, partito): etichetta osservata, `id_canonico` del partito (se il mapping è certo), `pct`.
+Fonte: Registro dei Sondaggi Politico-Elettorali (Presidenza del Consiglio). Snapshot append-only (idempotente per `id_sondaggio`); la supermedia è derivata-su-lettura da qui.
+
 Vedi `METODOLOGIA.md` per armonizzazione, asimmetria fusione/scorporo, strati di fiducia.

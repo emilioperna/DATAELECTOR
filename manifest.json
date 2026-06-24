@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.10",
- "generato": "2026-06-22T12:54:12",
- "n_files": 265,
+ "versione": "v2026.11",
+ "generato": "2026-06-24T05:00:02",
+ "n_files": 268,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -34,6 +34,30 @@
    "bytes": 113930,
    "righe": 5468,
    "livello": "territori",
+   "formato": "parquet"
+  },
+  {
+   "path": "sondaggi/sondaggi_osservato.parquet",
+   "sha256": "b815d09a0647cc3d1bc40d77b833cc716dfb847268000e1223059f3908ce912a",
+   "bytes": 28833,
+   "righe": 922,
+   "livello": "sondaggi",
+   "formato": "parquet"
+  },
+  {
+   "path": "sondaggi/sondaggi_osservato.csv.gz",
+   "sha256": "68e51df29311e0f4d540b2d167077146760076151d3d93f2e14ae8347da52355",
+   "bytes": 16190,
+   "righe": 922,
+   "livello": "sondaggi",
+   "formato": "csv.gz"
+  },
+  {
+   "path": "sondaggi/sondaggi_intenzioni.parquet",
+   "sha256": "436c7316dcff50b1d988288ec11c50565e48b6ce8ba2d74b709fbd2889f2dd08",
+   "bytes": 46159,
+   "righe": 10012,
+   "livello": "sondaggi",
    "formato": "parquet"
   },
   {
@@ -3016,8 +3040,8 @@
   },
   {
    "path": "README.md",
-   "sha256": "a5107b1f1e464f58b832f395c12c02f93f0a61c55ace86e56797585817bcf644",
-   "bytes": 973,
+   "sha256": "84e76f2a96d693b7eb99dba3330e56c5519bab664fc6f58ec7d7a23f00537997",
+   "bytes": 1338,
    "livello": "docs",
    "formato": "md"
   },
@@ -3036,15 +3060,15 @@
   },
   {
    "path": "schema/colonne.md",
-   "sha256": "1354f14ca252d1cd3f2c3dae3d0c749306da77b2f48ea01d6bcb477fd1891083",
-   "bytes": 1978,
+   "sha256": "0a6764d5b43f6ac051ee829a4d57cba37703be8d566e4a9adac1fd84c2408ff8",
+   "bytes": 2623,
    "livello": "schema",
    "formato": "md"
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "abc91b7b2a9dd92b51d9dc1004e479deffd3900e97aedb14ae0d8fb90758ee14",
-   "bytes": 704,
+   "sha256": "7692acbe6bce13b3bf844a69ad4b872c74d039fb52963bfb5c212fd0c5891b3e",
+   "bytes": 781,
    "livello": "docs",
    "formato": "md"
   }
