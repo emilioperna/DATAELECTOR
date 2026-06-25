@@ -4,7 +4,7 @@ Dataset **canonico, validato e immutabile** delle elezioni italiane (ultimi 15 a
 pubblicato), 4 livelli: NAZIONALI, EUROPEE, REGIONALI, COMUNALI. È **solo dati**: l'indice e i
 checksum sono in `manifest.json`; il metodo è in `METODOLOGIA.md`; i contratti colonne in `schema/`.
 
-Versione: **v2026.11** · generato: 2026-06-24
+Versione: **v2026.12** · generato: 2026-06-25
 
 ## Garanzie
 - **Grano AS-VOTED**: il voto è memorizzato sul comune *com'era al voto* (`codice_storico`); il
