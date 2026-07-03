@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.16",
- "generato": "2026-06-27T22:25:04",
- "n_files": 268,
+ "versione": "v2026.17",
+ "generato": "2026-07-03T20:10:21",
+ "n_files": 272,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
@@ -38,25 +38,25 @@
   },
   {
    "path": "sondaggi/sondaggi_osservato.parquet",
-   "sha256": "734728535b4a4de3eb73e5e38e212512fbcb6c1c6b2e0a0c185c7cc6ffa5b8bf",
-   "bytes": 45254,
-   "righe": 1543,
+   "sha256": "0251d0f4e3bdd6195fb6cc9dfed66ae96019d6590100dd2002b17a519bd60e22",
+   "bytes": 45210,
+   "righe": 1544,
    "livello": "sondaggi",
    "formato": "parquet"
   },
   {
    "path": "sondaggi/sondaggi_osservato.csv.gz",
-   "sha256": "12e15d473674616524431ad157437e87de5e1c1b606371dfffe8fca22ba67c98",
-   "bytes": 26528,
-   "righe": 1543,
+   "sha256": "9fc1cb659b68c71f15cb5aeaf99f8bcf028517bcb3cad70366257b5b498c16b9",
+   "bytes": 26540,
+   "righe": 1544,
    "livello": "sondaggi",
    "formato": "csv.gz"
   },
   {
    "path": "sondaggi/sondaggi_intenzioni.parquet",
-   "sha256": "c923462b77612615ae620a4a23eabbed9e233014d9418046d0f27752f14f8011",
-   "bytes": 69327,
-   "righe": 16353,
+   "sha256": "640e47ca1df5447aa85429a631297a77e9d508b15701f18799ee820172f85585",
+   "bytes": 69318,
+   "righe": 16362,
    "livello": "sondaggi",
    "formato": "parquet"
   },
@@ -1752,10 +1752,54 @@
    "validazione": "ok"
   },
   {
+   "path": "provvisorio/COMUNALI/2026/comunali_20260524.parquet",
+   "sha256": "ffef7026a1500c5b506c5a5f948326655b3ed0dc73e7c2b81f44acb59530700a",
+   "bytes": 55616,
+   "righe": 2696,
+   "livello": "provvisorio",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "validazione": "provvisorio"
+  },
+  {
+   "path": "provvisorio/COMUNALI/2026/comunali_20260524.csv.gz",
+   "sha256": "87345ce3e6121d0ef3beb40e5f58f70871337f831f51c69b50e175105dd0d3df",
+   "bytes": 37703,
+   "righe": 2696,
+   "livello": "provvisorio",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "csv.gz",
+   "validazione": "provvisorio"
+  },
+  {
+   "path": "provvisorio/COMUNALI/2026/comunali_20260524__affluenza.parquet",
+   "sha256": "7c0275ef879ce345c1c3ab6a009233dd426b75d85fa7257f8ee7f7c0f3e503d2",
+   "bytes": 16318,
+   "righe": 661,
+   "livello": "provvisorio",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "validazione": "provvisorio"
+  },
+  {
+   "path": "provvisorio/COMUNALI/2026/comunali_20260524__struttura.parquet",
+   "sha256": "48bbe05957e35a3b161cbee2ab82bf86e9f3b7086b296a7218f323867687bcc5",
+   "bytes": 78399,
+   "righe": 2696,
+   "livello": "provvisorio",
+   "id_elezione": "comunali_20260524",
+   "data": "2026-05-24",
+   "formato": "parquet",
+   "validazione": "provvisorio"
+  },
+  {
    "path": "COMUNALI/2026/comunali_20260524.parquet",
-   "sha256": "69313507af2da23c353fb91888205c5bf0320e9f552b7f107d642c783c8bd968",
-   "bytes": 66447,
-   "righe": 3064,
+   "sha256": "1846549e2ed9380b45fe7edfb5d6e1495e51cc140596f8d0fc68431f18e8a5d1",
+   "bytes": 13973,
+   "righe": 368,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20260524",
    "data": "2026-05-24",
@@ -1766,9 +1810,9 @@
   },
   {
    "path": "COMUNALI/2026/comunali_20260524.csv.gz",
-   "sha256": "1d4fcbaedcec858574f3e5783adf474ca4b4297c0253e3c7b9539891bcf1d03a",
-   "bytes": 44800,
-   "righe": 3064,
+   "sha256": "3dd0811f26338f64e4ad06f996270858864dd9c638bb2f8ab524bf134cdf6d8a",
+   "bytes": 7614,
+   "righe": 368,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20260524",
    "data": "2026-05-24",
@@ -1778,9 +1822,9 @@
   },
   {
    "path": "COMUNALI/2026/comunali_20260524__affluenza.parquet",
-   "sha256": "42b162627cba2f16101bdcaa536618415b4386c952f7f4f22648f764a8604c06",
-   "bytes": 17783,
-   "righe": 732,
+   "sha256": "a121e1589d3387f1847c0820bef1f6cea693b7237a252a42c950ec5c4207f505",
+   "bytes": 3388,
+   "righe": 71,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20260524",
    "data": "2026-05-24",
@@ -1791,9 +1835,9 @@
   },
   {
    "path": "COMUNALI/2026/comunali_20260524__struttura.parquet",
-   "sha256": "ea4f6531496f1e25202868c3aeba663508dae1fe507e9b3f5d866e1970dff4ad",
-   "bytes": 91615,
-   "righe": 3064,
+   "sha256": "d0e7cf2abae8f786884f6b9677a77014489478a7fc7ef296494f520f659509e3",
+   "bytes": 16852,
+   "righe": 368,
    "livello": "COMUNALI",
    "id_elezione": "comunali_20260524",
    "data": "2026-05-24",
@@ -3040,7 +3084,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "6989a2904deef16160cd77525a2f349ae2c5c99df73683b332a39f3fa1e4d98a",
+   "sha256": "75bf0753009eb9201a1e8896d0d1e329d57d8510607bf3b8b34a9c9d5c935f80",
    "bytes": 1338,
    "livello": "docs",
    "formato": "md"
@@ -3067,8 +3111,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "68e7384f4d87d839a2a93d32cc8a95be9b64cf946cd1826be525beb5b70c9a89",
-   "bytes": 1166,
+   "sha256": "3a4bb249c9473cb1503779da43754f8267d86e72ad611658e1e3e1a8dc9ee2ef",
+   "bytes": 1243,
    "livello": "docs",
    "formato": "md"
   }
