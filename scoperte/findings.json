@@ -1,11 +1,11 @@
 {
-  "generato": "2026-07-02T16:33:43",
-  "data": "2026-07-02",
+  "generato": "2026-07-03T13:00:26",
+  "data": "2026-07-03",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-07-02:verdetto:centrodestra",
-      "data": "2026-07-02",
+      "id": "2026-07-03:verdetto:centrodestra",
+      "data": "2026-07-03",
       "tipo": "verdetto",
       "severita": "positivo",
       "titolo": "centrodestra: 232 seggi, P(maggioranza) 97%",
@@ -50,8 +50,8 @@
       }
     },
     {
-      "id": "2026-07-02:momentum:Futuro Nazionale",
-      "data": "2026-07-02",
+      "id": "2026-07-03:momentum:Futuro Nazionale",
+      "data": "2026-07-03",
       "tipo": "momentum",
       "severita": "positivo",
       "titolo": "Futuro Nazionale ▲ 1,0pt in 30 giorni",
@@ -67,25 +67,25 @@
       }
     },
     {
-      "id": "2026-07-02:momentum:Lega",
-      "data": "2026-07-02",
+      "id": "2026-07-03:momentum:Fratelli d'Italia",
+      "data": "2026-07-03",
       "tipo": "momentum",
-      "severita": "attenzione",
-      "titolo": "Lega ▼ 0,5pt in 30 giorni",
-      "testo": "Lega scende di 0,5 punti rispetto a un mese fa, ora al 6,3% nella supermedia,",
-      "valore": "6,3%",
+      "severita": "positivo",
+      "titolo": "Fratelli d'Italia ▲ 0,5pt in 30 giorni",
+      "testo": "Fratelli d'Italia sale di 0,5 punti rispetto a un mese fa, ora al 27,6% nella supermedia,",
+      "valore": "27,6%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
-        "partito": "Lega",
-        "quota": 6.3,
-        "momentum": -0.5,
-        "sale": false
+        "partito": "Fratelli d'Italia",
+        "quota": 27.56,
+        "momentum": 0.5,
+        "sale": true
       }
     },
     {
-      "id": "2026-07-02:leader:Fratelli d'Italia",
-      "data": "2026-07-02",
+      "id": "2026-07-03:leader:Fratelli d'Italia",
+      "data": "2026-07-03",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 27,6%",
