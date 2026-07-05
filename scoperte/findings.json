@@ -1,95 +1,95 @@
 {
-  "generato": "2026-07-03T13:00:26",
-  "data": "2026-07-03",
+  "generato": "2026-07-05T05:00:18",
+  "data": "2026-07-05",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-07-03:verdetto:centrodestra",
-      "data": "2026-07-03",
+      "id": "2026-07-05:verdetto:centrodestra",
+      "data": "2026-07-05",
       "tipo": "verdetto",
       "severita": "positivo",
-      "titolo": "centrodestra: 232 seggi, P(maggioranza) 97%",
-      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~232 seggi (banda 207–256). Probabilità di maggioranza 97%, probabilità di stallo 3%.",
-      "valore": "97%",
+      "titolo": "centrodestra: 252 seggi, P(maggioranza) 100%",
+      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~252 seggi (banda 228–276). Probabilità di maggioranza 100%, probabilità di stallo 0%.",
+      "valore": "100%",
       "permalink": "#/previsione/seggi",
       "card": {
         "variante": "verdetto",
         "guida": "centrodestra",
-        "p_maggioranza": 0.973,
-        "p_stallo": 0.027,
+        "p_maggioranza": 0.999,
+        "p_stallo": 0.001,
         "coalizioni": [
           {
             "nome": "centrodestra",
-            "medio": 231.6,
-            "p5": 207,
-            "p95": 256,
-            "p_maggioranza": 0.973
+            "medio": 252.1,
+            "p5": 228,
+            "p95": 276,
+            "p_maggioranza": 0.999
           },
           {
             "nome": "centrosinistra",
-            "medio": 108.6,
-            "p5": 83,
-            "p95": 133,
+            "medio": 103.9,
+            "p5": 80,
+            "p95": 128,
             "p_maggioranza": 0.0
           },
           {
             "nome": "m5s",
-            "medio": 38.1,
-            "p5": 29,
-            "p95": 49,
+            "medio": 35.8,
+            "p5": 27,
+            "p95": 46,
             "p_maggioranza": 0.0
           },
           {
-            "nome": "Futuro Nazionale",
-            "medio": 13.6,
-            "p5": 9,
-            "p95": 19,
+            "nome": "Partito Liberaldemocratico",
+            "medio": 0.1,
+            "p5": 0,
+            "p95": 0,
             "p_maggioranza": 0.0
           }
         ]
       }
     },
     {
-      "id": "2026-07-03:momentum:Futuro Nazionale",
-      "data": "2026-07-03",
+      "id": "2026-07-05:momentum:Fratelli d'Italia",
+      "data": "2026-07-05",
       "tipo": "momentum",
       "severita": "positivo",
-      "titolo": "Futuro Nazionale ▲ 1,0pt in 30 giorni",
-      "testo": "Futuro Nazionale sale di 1,0 punti rispetto a un mese fa, ora al 5,0% nella supermedia,",
-      "valore": "5,0%",
-      "permalink": "#/supermedia",
-      "card": {
-        "variante": "momentum",
-        "partito": "Futuro Nazionale",
-        "quota": 5.02,
-        "momentum": 1.0,
-        "sale": true
-      }
-    },
-    {
-      "id": "2026-07-03:momentum:Fratelli d'Italia",
-      "data": "2026-07-03",
-      "tipo": "momentum",
-      "severita": "positivo",
-      "titolo": "Fratelli d'Italia ▲ 0,5pt in 30 giorni",
-      "testo": "Fratelli d'Italia sale di 0,5 punti rispetto a un mese fa, ora al 27,6% nella supermedia,",
+      "titolo": "Fratelli d'Italia ▲ 1,6pt in 30 giorni",
+      "testo": "Fratelli d'Italia sale di 1,6 punti rispetto a un mese fa, ora al 27,6% nella supermedia,",
       "valore": "27,6%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Fratelli d'Italia",
-        "quota": 27.56,
-        "momentum": 0.5,
+        "quota": 27.61,
+        "momentum": 1.6,
         "sale": true
       }
     },
     {
-      "id": "2026-07-03:leader:Fratelli d'Italia",
-      "data": "2026-07-03",
+      "id": "2026-07-05:momentum:Partito Democratico",
+      "data": "2026-07-05",
+      "tipo": "momentum",
+      "severita": "positivo",
+      "titolo": "Partito Democratico ▲ 1,6pt in 30 giorni",
+      "testo": "Partito Democratico sale di 1,6 punti rispetto a un mese fa, ora al 21,4% nella supermedia,",
+      "valore": "21,4%",
+      "permalink": "#/supermedia",
+      "card": {
+        "variante": "momentum",
+        "partito": "Partito Democratico",
+        "quota": 21.45,
+        "momentum": 1.6,
+        "sale": true
+      }
+    },
+    {
+      "id": "2026-07-05:leader:Fratelli d'Italia",
+      "data": "2026-07-05",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 27,6%",
-      "testo": "Fratelli d'Italia è il primo partito al 27,6%, +6,3pt su Partito Democratico (21,3%),",
+      "testo": "Fratelli d'Italia è il primo partito al 27,6%, +6,2pt su Partito Democratico (21,4%),",
       "valore": "27,6%",
       "permalink": "#/supermedia",
       "card": {
@@ -97,23 +97,23 @@
         "partiti": [
           {
             "nome": "Fratelli d'Italia",
-            "quota": 27.56
+            "quota": 27.61
           },
           {
             "nome": "Partito Democratico",
-            "quota": 21.26
+            "quota": 21.45
           },
           {
             "nome": "Movimento 5 Stelle",
-            "quota": 12.8
+            "quota": 12.31
           },
           {
             "nome": "Forza Italia",
-            "quota": 7.58
+            "quota": 7.65
           },
           {
             "nome": "Alleanza Verdi e Sinistra",
-            "quota": 6.3
+            "quota": 6.45
           }
         ]
       }
