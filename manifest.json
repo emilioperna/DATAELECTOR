@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.19",
- "generato": "2026-07-07T05:00:05",
+ "versione": "v2026.20",
+ "generato": "2026-07-08T16:09:00",
  "n_files": 272,
  "files": [
   {
@@ -38,25 +38,25 @@
   },
   {
    "path": "sondaggi/sondaggi_osservato.parquet",
-   "sha256": "bec37346dbd0636408771e8370c57fbc61f6a249a1901c8002814833d1fa07a1",
-   "bytes": 47049,
-   "righe": 1610,
+   "sha256": "ffde5c207b6076da5300044063d1add6c226e64858fdc4dff452458ac2deba96",
+   "bytes": 47070,
+   "righe": 1614,
    "livello": "sondaggi",
    "formato": "parquet"
   },
   {
    "path": "sondaggi/sondaggi_osservato.csv.gz",
-   "sha256": "1d38e1b68ee4bea4a0324b62c3b41d273d0bcdb2824002b0c9a52497b872829d",
-   "bytes": 28042,
-   "righe": 1610,
+   "sha256": "efa39ea8a9fab37e3b8b9933a291947c1955ca45c80ec1507763ee34d7a9db8f",
+   "bytes": 28061,
+   "righe": 1614,
    "livello": "sondaggi",
    "formato": "csv.gz"
   },
   {
    "path": "sondaggi/sondaggi_intenzioni.parquet",
-   "sha256": "766c1548c3c68d08b3c2a7b6f37113be780cdb5013dd7b8d7adc01ba254fccf4",
-   "bytes": 72101,
-   "righe": 17106,
+   "sha256": "65f7f91e017e74c613ef081e54359129f92e81d6ae6e064ce21202ef3f8f1757",
+   "bytes": 73204,
+   "righe": 17140,
    "livello": "sondaggi",
    "formato": "parquet"
   },
@@ -3084,7 +3084,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "975f7ba3260dff47d761441fc85b1de232130f74ed05b2f5b0842e3b7519ba6c",
+   "sha256": "6b6ee6b0760fbbe1c9ce7e58e27a235f4bc2d07923ee240ea66f654729ed3746",
    "bytes": 1338,
    "livello": "docs",
    "formato": "md"
@@ -3111,8 +3111,8 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "d8d0252672ff8301b1191a6eaa061b49b2a97d335246098b26719ebc0b3dde35",
-   "bytes": 1397,
+   "sha256": "e152b606b25c3bf9fdb4692d8545ed9b51747f739aa1aadbf090bb48c0121db8",
+   "bytes": 1474,
    "livello": "docs",
    "formato": "md"
   }
