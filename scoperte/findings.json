@@ -1,11 +1,11 @@
 {
-  "generato": "2026-07-08T16:09:19",
-  "data": "2026-07-08",
+  "generato": "2026-07-10T08:17:56",
+  "data": "2026-07-10",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-07-08:verdetto:centrodestra",
-      "data": "2026-07-08",
+      "id": "2026-07-10:verdetto:centrodestra",
+      "data": "2026-07-10",
       "tipo": "verdetto",
       "severita": "positivo",
       "titolo": "centrodestra: 221 seggi, P(maggioranza) 80%",
@@ -50,25 +50,8 @@
       }
     },
     {
-      "id": "2026-07-08:momentum:Futuro Nazionale",
-      "data": "2026-07-08",
-      "tipo": "momentum",
-      "severita": "positivo",
-      "titolo": "Futuro Nazionale ▲ 1,6pt in 30 giorni",
-      "testo": "Futuro Nazionale sale di 1,6 punti rispetto a un mese fa, ora al 5,8% nella supermedia,",
-      "valore": "5,8%",
-      "permalink": "#/supermedia",
-      "card": {
-        "variante": "momentum",
-        "partito": "Futuro Nazionale",
-        "quota": 5.83,
-        "momentum": 1.6,
-        "sale": true
-      }
-    },
-    {
-      "id": "2026-07-08:momentum:Lega",
-      "data": "2026-07-08",
+      "id": "2026-07-10:momentum:Lega",
+      "data": "2026-07-10",
       "tipo": "momentum",
       "severita": "attenzione",
       "titolo": "Lega ▼ 1,6pt in 30 giorni",
@@ -84,8 +67,25 @@
       }
     },
     {
-      "id": "2026-07-08:leader:Fratelli d'Italia",
-      "data": "2026-07-08",
+      "id": "2026-07-10:momentum:Futuro Nazionale",
+      "data": "2026-07-10",
+      "tipo": "momentum",
+      "severita": "positivo",
+      "titolo": "Futuro Nazionale ▲ 1,5pt in 30 giorni",
+      "testo": "Futuro Nazionale sale di 1,5 punti rispetto a un mese fa, ora al 5,8% nella supermedia,",
+      "valore": "5,8%",
+      "permalink": "#/supermedia",
+      "card": {
+        "variante": "momentum",
+        "partito": "Futuro Nazionale",
+        "quota": 5.83,
+        "momentum": 1.5,
+        "sale": true
+      }
+    },
+    {
+      "id": "2026-07-10:leader:Fratelli d'Italia",
+      "data": "2026-07-10",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,8%",
