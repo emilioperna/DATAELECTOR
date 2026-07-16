@@ -1,3 +1,6 @@
+## v2026.21 — 2026-07-16
+- file aggiunti: 0; rimossi: 1; aggiornati: 4
+
 ## v2026.20 — 2026-07-08
 - file aggiunti: 0; rimossi: 1; aggiornati: 4
 
