@@ -1,7 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.21",
- "generato": "2026-07-16T07:09:34",
+ "versione": "v2026.22",
+ "generato": "2026-07-16T18:18:06",
+ "dataset_digest": "28c8146692e6bdcb9372e73eee8f7109dfcddc35f75b698ab396c3f3625d4c53",
  "n_files": 272,
  "files": [
   {
@@ -3084,7 +3085,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "09466032253485acd9633ba76b79384a429e26cbf2f3ff85bdc695504c2cb70c",
+   "sha256": "ba62cb72eba2c92e1511202f1d04da43ce89fe14af91fb75ea5d7789bff1460c",
    "bytes": 1338,
    "livello": "docs",
    "formato": "md"
@@ -3111,10 +3112,19 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "35121cf55c761f393844698eb7a4138da4561aabf8db5d2d5c507039ca390ef4",
-   "bytes": 1551,
+   "sha256": "3ffe93d917374b605fef2b341bac108dcf465d28d2092afcd02d5ab81c6516a0",
+   "bytes": 1628,
    "livello": "docs",
    "formato": "md"
   }
- ]
+ ],
+ "build": {
+  "code_version": "0.0.1",
+  "code_commit": "6240f1cadaf2b2b533f3492430226520790a9dd6",
+  "code_commit_short": "6240f1c",
+  "code_dirty": false,
+  "env_hash": "ae7555db01be78289b129ce46a509c126e6e8afc2dd29cf883e8d069212e8fbb",
+  "python": "3.14.4",
+  "generato": "2026-07-16T16:18:06Z"
+ }
 }
