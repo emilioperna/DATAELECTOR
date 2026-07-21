@@ -1,8 +1,8 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.23",
- "generato": "2026-07-19T08:42:38",
- "dataset_digest": "a9b8cb0b3c2c2fcad7fef6b98def6105983fc98f2d467fbb06b319a296a2dcc6",
+ "versione": "v2026.24",
+ "generato": "2026-07-21T19:25:04",
+ "dataset_digest": "049839a352d04a43f1612c5482632aa4a1ab6a0d8e07b408ab3de2ffe033103b",
  "n_files": 273,
  "files": [
   {
@@ -39,25 +39,25 @@
   },
   {
    "path": "sondaggi/sondaggi_osservato.parquet",
-   "sha256": "a5ece9352a690aafd3668c246b3f87d6aae3c05a37a819cec4832eff62328490",
-   "bytes": 47271,
-   "righe": 1621,
+   "sha256": "aa1319fb0532ed04689052fa792ba438601d794387988ffe9cb5f86864d802e6",
+   "bytes": 47381,
+   "righe": 1622,
    "livello": "sondaggi",
    "formato": "parquet"
   },
   {
    "path": "sondaggi/sondaggi_osservato.csv.gz",
-   "sha256": "46795ab860dcee0f7d6c4c180bc3acf3bf7bb218fc0d32607c6d1cef78554276",
-   "bytes": 28190,
-   "righe": 1621,
+   "sha256": "74fd480d4c53b29cf510d333f346e347497dc14c3172a8876fa5dcc6a1aaa38b",
+   "bytes": 28210,
+   "righe": 1622,
    "livello": "sondaggi",
    "formato": "csv.gz"
   },
   {
    "path": "sondaggi/sondaggi_intenzioni.parquet",
-   "sha256": "7cdd4bc902cdd0810de01cb97bcc8bc9dae25f8e7afe26860e9a4d010b27f434",
-   "bytes": 76855,
-   "righe": 17243,
+   "sha256": "abea3b927dfb771fed434890c293ed86767aa9d255ceff7bbedac2b246433b3d",
+   "bytes": 72916,
+   "righe": 17255,
    "livello": "sondaggi",
    "formato": "parquet"
   },
@@ -3085,7 +3085,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "5c36382fe6e1f2e757c7f585ca5163a32d8e4fcde425be35c057cb21c3ab7741",
+   "sha256": "246c11785ad0548b99908a7779eb225870d9ea54b1a1f961fb6916d1c8a41f6d",
    "bytes": 1338,
    "livello": "docs",
    "formato": "md"
@@ -3112,26 +3112,26 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "91427bf189446bb87f036ce86216bd7e04471eeb29cc55cbdd81086a9b816c7b",
-   "bytes": 1705,
+   "sha256": "78da39a4ee1929bbe177688a6687af056db6ddd9733fbd3f80e4d1c08f9c8457",
+   "bytes": 1782,
    "livello": "docs",
    "formato": "md"
   },
   {
    "path": "changelog.jsonl",
-   "sha256": "48ff8a8efa57d1f1dfa1a0c36732b7b86a799a591daa0c018ba75799ff2d6ecd",
-   "bytes": 401,
+   "sha256": "cf20da855f8410e257e00bb7ed3cce77cea6d6150ed280306253bcf6c8fcb383",
+   "bytes": 802,
    "livello": "docs",
    "formato": "jsonl"
   }
  ],
  "build": {
   "code_version": "0.0.1",
-  "code_commit": "6ef53cff26bb1e7a045adf3cfa716035591507c6",
-  "code_commit_short": "6ef53cf",
-  "code_dirty": false,
+  "code_commit": "1c2bfe2c3c76e4b5865a50d231f9bbdd82c13a4c",
+  "code_commit_short": "1c2bfe2",
+  "code_dirty": true,
   "env_hash": "ae7555db01be78289b129ce46a509c126e6e8afc2dd29cf883e8d069212e8fbb",
   "python": "3.14.4",
-  "generato": "2026-07-19T06:42:38Z"
+  "generato": "2026-07-21T17:25:04Z"
  }
 }
