@@ -1,70 +1,70 @@
 {
  "schema_version": "1.0",
- "versione": "v2026.25",
- "generato": "2026-07-26T20:13:32",
- "dataset_digest": "e60c9816950ba7c12e3d49adedf8868633af77b819a7ce0d528036c8edb48c80",
+ "versione": "v2026.26",
+ "generato": "2026-07-29T05:00:08",
+ "dataset_digest": "2b52142bd189a3d03a6fa8073f89cd490733d40b3ac7db2c8a463e9057ad2a13",
  "n_files": 273,
  "files": [
   {
    "path": "territori/territori_canonici.parquet",
-   "sha256": "284a21d83e581ea54283eb0558ddf31ce42b20e86cc5be54b315933443bb5b31",
-   "bytes": 137082,
+   "sha256": "f16a49e8f646220426342be2917edd8ed93af568f2aded57be0b97a871ff4336",
+   "bytes": 138494,
    "righe": 7894,
    "livello": "territori",
    "formato": "parquet"
   },
   {
    "path": "territori/territori_canonici.csv.gz",
-   "sha256": "a1086e44a39b0a1bb811d2e860d743a0f9f1d7380a4c6aed78072df285259304",
-   "bytes": 88901,
+   "sha256": "4ea7ca9d4b4321ae290bcee9cbf7ac4f8cd49fb745a77707c4a0a9b3ff80c5ae",
+   "bytes": 89964,
    "righe": 7894,
    "livello": "territori",
    "formato": "csv.gz"
   },
   {
    "path": "territori/territori_storico.parquet",
-   "sha256": "ea15d6146bc959be1dadd6a012c1831a33bade7089a0e0590ead1a84cef134f0",
-   "bytes": 88792,
-   "righe": 10887,
+   "sha256": "2108b47ff8d3f28530cc5b97e21b627fd9a70d9b904d7a253f3c468e46256355",
+   "bytes": 89057,
+   "righe": 10899,
    "livello": "territori",
    "formato": "parquet"
   },
   {
    "path": "territori/comune_lignaggio.parquet",
-   "sha256": "cb269f7b0ae124c53e4320d4383895d21ca2779965a2b6ad6a9666613010af3b",
-   "bytes": 113930,
-   "righe": 5468,
+   "sha256": "e886864617e5687b4de6afcb12bb7863a850573818d24e3e21faad87bb59546f",
+   "bytes": 120211,
+   "righe": 5844,
    "livello": "territori",
    "formato": "parquet"
   },
   {
    "path": "sondaggi/sondaggi_osservato.parquet",
-   "sha256": "324f7e45ca55883c1c10f60d250481d3bc0f1d6276cb40742d03ac71d8657cc6",
-   "bytes": 47343,
-   "righe": 1625,
+   "sha256": "a509804bbb21fb1bee36f2147ce96d01c5893e4ba5325ac9e7acb3630c69a0df",
+   "bytes": 47424,
+   "righe": 1627,
    "livello": "sondaggi",
    "formato": "parquet"
   },
   {
    "path": "sondaggi/sondaggi_osservato.csv.gz",
-   "sha256": "f362ec02ba2488eb412d4551c00dc3994cfe32c2d13d0d6ad0a2bcc8ab7eca4c",
-   "bytes": 28271,
-   "righe": 1625,
+   "sha256": "abeab29844eff64d2a1c238eab953e23700660e37778d4f4a9034d075d3cf524",
+   "bytes": 28309,
+   "righe": 1627,
    "livello": "sondaggi",
    "formato": "csv.gz"
   },
   {
    "path": "sondaggi/sondaggi_intenzioni.parquet",
-   "sha256": "cda07ee56cda2c6e1fcd38915ead25ef026b36c3fd740c31f1393a4a8c858a7d",
-   "bytes": 72969,
-   "righe": 17292,
+   "sha256": "bb105c6fc5cdae479c2978f8491271413cbee788b8e7fe61a65bf448830105a6",
+   "bytes": 73077,
+   "righe": 17316,
    "livello": "sondaggi",
    "formato": "parquet"
   },
   {
    "path": "territori/successioni.parquet",
-   "sha256": "44716c8f768e7c7deb2cdf74750f1684f7cfb9a1866fcbd028da6df42f08c2f9",
-   "bytes": 27624,
+   "sha256": "370504502c739227437405da0e26e56c1811d5b2f6f40544d56f5fd3d8c8aeaa",
+   "bytes": 29134,
    "livello": "territori",
    "formato": "parquet"
   },
@@ -3085,7 +3085,7 @@
   },
   {
    "path": "README.md",
-   "sha256": "02e5a697b6638facfc39656e9700b8ca854d163fd304ffec299808b1f596dd0a",
+   "sha256": "c5db7e49fc2ad7100da32377ae35c3b0389821de620831932971505c14b702f4",
    "bytes": 1338,
    "livello": "docs",
    "formato": "md"
@@ -3112,26 +3112,26 @@
   },
   {
    "path": "CHANGELOG.md",
-   "sha256": "d1d46a6e1821389113c712de7e5a22896c5cdf1bbb6ccb81018d342c66ad01a7",
-   "bytes": 1859,
+   "sha256": "7c7b730dd90ec90b4d13915ea32800174aeb2488c61a7b94a916131c9d57b4c0",
+   "bytes": 1936,
    "livello": "docs",
    "formato": "md"
   },
   {
    "path": "changelog.jsonl",
-   "sha256": "b5fa2c5d6f83e45fe8efd573bc547ca3c484b3189a26c4ca29b3471bcb21e399",
-   "bytes": 1203,
+   "sha256": "ffe5f8b0b4b51e68f32ca1bede26ff4c05d836c77325811245cb82922a1ca884",
+   "bytes": 1693,
    "livello": "docs",
    "formato": "jsonl"
   }
  ],
  "build": {
   "code_version": "0.0.1",
-  "code_commit": "3b0c99507a24225cd3c757c8aae0465b98c0cba7",
-  "code_commit_short": "3b0c995",
+  "code_commit": "93a2912ac37458564a94fcf7cba4f5a36e0e711b",
+  "code_commit_short": "93a2912",
   "code_dirty": false,
-  "env_hash": "ae7555db01be78289b129ce46a509c126e6e8afc2dd29cf883e8d069212e8fbb",
+  "env_hash": "1c21d9652916499652312f2353a01de326af499c1e4cd44eb0499d92c34119f9",
   "python": "3.14.4",
-  "generato": "2026-07-26T18:13:32Z"
+  "generato": "2026-07-29T03:00:08Z"
  }
 }
