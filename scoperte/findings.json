@@ -1,6 +1,123 @@
 {
-  "generato": "2026-07-27T06:57:38",
-  "data": "2026-07-27",
-  "n": 0,
-  "scoperte": []
+  "generato": "2026-07-29T05:00:30",
+  "data": "2026-07-29",
+  "n": 4,
+  "scoperte": [
+    {
+      "id": "2026-07-29:verdetto:centrodestra",
+      "data": "2026-07-29",
+      "tipo": "verdetto",
+      "severita": "positivo",
+      "titolo": "centrodestra: 218 seggi, P(maggioranza) 78%",
+      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~218 seggi (banda 175–256). Probabilità di maggioranza 78%, probabilità di stallo 22%.",
+      "valore": "78%",
+      "permalink": "#/previsione/seggi",
+      "card": {
+        "variante": "verdetto",
+        "guida": "centrodestra",
+        "p_maggioranza": 0.775,
+        "p_stallo": 0.225,
+        "coalizioni": [
+          {
+            "nome": "centrodestra",
+            "medio": 218.3,
+            "p5": 175,
+            "p95": 256,
+            "p_maggioranza": 0.775
+          },
+          {
+            "nome": "centrosinistra",
+            "medio": 106.8,
+            "p5": 73,
+            "p95": 147,
+            "p_maggioranza": 0.0
+          },
+          {
+            "nome": "m5s",
+            "medio": 38.2,
+            "p5": 26,
+            "p95": 52,
+            "p_maggioranza": 0.0
+          },
+          {
+            "nome": "futuro_nazionale",
+            "medio": 17.6,
+            "p5": 10,
+            "p95": 25,
+            "p_maggioranza": 0.0
+          }
+        ],
+        "altre_medio": 11.0
+      }
+    },
+    {
+      "id": "2026-07-29:momentum:Lega",
+      "data": "2026-07-29",
+      "tipo": "momentum",
+      "severita": "attenzione",
+      "titolo": "Lega ▼ 0,9pt in 30 giorni",
+      "testo": "Lega scende di 0,9 punti rispetto a un mese fa, ora al 5,5% nella supermedia,",
+      "valore": "5,5%",
+      "permalink": "#/supermedia",
+      "card": {
+        "variante": "momentum",
+        "partito": "Lega",
+        "quota": 5.5,
+        "momentum": -0.9,
+        "sale": false
+      }
+    },
+    {
+      "id": "2026-07-29:momentum:Partito Democratico",
+      "data": "2026-07-29",
+      "tipo": "momentum",
+      "severita": "positivo",
+      "titolo": "Partito Democratico ▲ 0,8pt in 30 giorni",
+      "testo": "Partito Democratico sale di 0,8 punti rispetto a un mese fa, ora al 21,1% nella supermedia,",
+      "valore": "21,1%",
+      "permalink": "#/supermedia",
+      "card": {
+        "variante": "momentum",
+        "partito": "Partito Democratico",
+        "quota": 21.1,
+        "momentum": 0.8,
+        "sale": true
+      }
+    },
+    {
+      "id": "2026-07-29:leader:Fratelli d'Italia",
+      "data": "2026-07-29",
+      "tipo": "leader",
+      "severita": "info",
+      "titolo": "Fratelli d'Italia primo partito al 26,9%",
+      "testo": "Fratelli d'Italia è il primo partito al 26,9%, +5,8pt su Partito Democratico (21,1%),",
+      "valore": "26,9%",
+      "permalink": "#/supermedia",
+      "card": {
+        "variante": "leader",
+        "partiti": [
+          {
+            "nome": "Fratelli d'Italia",
+            "quota": 26.9
+          },
+          {
+            "nome": "Partito Democratico",
+            "quota": 21.1
+          },
+          {
+            "nome": "Movimento 5 Stelle",
+            "quota": 13.0
+          },
+          {
+            "nome": "Forza Italia",
+            "quota": 7.7
+          },
+          {
+            "nome": "Futuro Nazionale",
+            "quota": 6.7
+          }
+        ]
+      }
+    }
+  ]
 }
