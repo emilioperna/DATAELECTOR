@@ -1,58 +1,58 @@
 {
-  "generato": "2026-07-30T16:25:11",
-  "data": "2026-07-30",
+  "generato": "2026-07-31T07:16:07",
+  "data": "2026-07-31",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-07-30:verdetto:centrodestra",
-      "data": "2026-07-30",
+      "id": "2026-07-31:verdetto:centrodestra",
+      "data": "2026-07-31",
       "tipo": "verdetto",
       "severita": "positivo",
-      "titolo": "centrodestra: 218 seggi, P(maggioranza) 78%",
-      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~218 seggi (banda 175–256). Probabilità di maggioranza 78%, probabilità di stallo 22%.",
+      "titolo": "centrodestra: 219 seggi, P(maggioranza) 78%",
+      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~219 seggi (banda 175–256). Probabilità di maggioranza 78%, probabilità di stallo 22%.",
       "valore": "78%",
       "permalink": "#/previsione/seggi",
       "card": {
         "variante": "verdetto",
         "guida": "centrodestra",
-        "p_maggioranza": 0.775,
-        "p_stallo": 0.225,
+        "p_maggioranza": 0.778,
+        "p_stallo": 0.222,
         "coalizioni": [
           {
             "nome": "centrodestra",
-            "medio": 218.3,
+            "medio": 218.7,
             "p5": 175,
             "p95": 256,
-            "p_maggioranza": 0.775
+            "p_maggioranza": 0.778
           },
           {
             "nome": "centrosinistra",
-            "medio": 106.8,
+            "medio": 106.9,
             "p5": 73,
-            "p95": 147,
+            "p95": 148,
             "p_maggioranza": 0.0
           },
           {
             "nome": "m5s",
-            "medio": 38.2,
+            "medio": 38.3,
             "p5": 26,
             "p95": 52,
             "p_maggioranza": 0.0
           },
           {
             "nome": "futuro_nazionale",
-            "medio": 17.6,
+            "medio": 17.1,
             "p5": 10,
-            "p95": 25,
+            "p95": 24,
             "p_maggioranza": 0.0
           }
         ],
-        "altre_medio": 11.0
+        "altre_medio": 11.1
       }
     },
     {
-      "id": "2026-07-30:momentum:Lega",
-      "data": "2026-07-30",
+      "id": "2026-07-31:momentum:Lega",
+      "data": "2026-07-31",
       "tipo": "momentum",
       "severita": "attenzione",
       "titolo": "Lega ▼ 0,9pt in 30 giorni",
@@ -68,8 +68,8 @@
       }
     },
     {
-      "id": "2026-07-30:momentum:Partito Democratico",
-      "data": "2026-07-30",
+      "id": "2026-07-31:momentum:Partito Democratico",
+      "data": "2026-07-31",
       "tipo": "momentum",
       "severita": "positivo",
       "titolo": "Partito Democratico ▲ 0,8pt in 30 giorni",
@@ -85,8 +85,8 @@
       }
     },
     {
-      "id": "2026-07-30:leader:Fratelli d'Italia",
-      "data": "2026-07-30",
+      "id": "2026-07-31:leader:Fratelli d'Italia",
+      "data": "2026-07-31",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,9%",
@@ -114,7 +114,7 @@
           },
           {
             "nome": "Futuro Nazionale",
-            "quota": 6.7
+            "quota": 6.5
           }
         ]
       }
