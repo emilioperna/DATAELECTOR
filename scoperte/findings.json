@@ -1,11 +1,11 @@
 {
-  "generato": "2026-07-31T07:16:07",
-  "data": "2026-07-31",
+  "generato": "2026-08-01T05:00:28",
+  "data": "2026-08-01",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-07-31:verdetto:centrodestra",
-      "data": "2026-07-31",
+      "id": "2026-08-01:verdetto:centrodestra",
+      "data": "2026-08-01",
       "tipo": "verdetto",
       "severita": "positivo",
       "titolo": "centrodestra: 219 seggi, P(maggioranza) 78%",
@@ -51,8 +51,8 @@
       }
     },
     {
-      "id": "2026-07-31:momentum:Lega",
-      "data": "2026-07-31",
+      "id": "2026-08-01:momentum:Lega",
+      "data": "2026-08-01",
       "tipo": "momentum",
       "severita": "attenzione",
       "titolo": "Lega ▼ 0,9pt in 30 giorni",
@@ -68,8 +68,8 @@
       }
     },
     {
-      "id": "2026-07-31:momentum:Partito Democratico",
-      "data": "2026-07-31",
+      "id": "2026-08-01:momentum:Partito Democratico",
+      "data": "2026-08-01",
       "tipo": "momentum",
       "severita": "positivo",
       "titolo": "Partito Democratico ▲ 0,8pt in 30 giorni",
@@ -85,8 +85,8 @@
       }
     },
     {
-      "id": "2026-07-31:leader:Fratelli d'Italia",
-      "data": "2026-07-31",
+      "id": "2026-08-01:leader:Fratelli d'Italia",
+      "data": "2026-08-01",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,9%",
