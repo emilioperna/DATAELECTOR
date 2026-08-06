@@ -1,11 +1,11 @@
 {
-  "generato": "2026-08-05T12:35:14",
-  "data": "2026-08-05",
+  "generato": "2026-08-06T05:00:21",
+  "data": "2026-08-06",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-08-05:verdetto:centrodestra",
-      "data": "2026-08-05",
+      "id": "2026-08-06:verdetto:centrodestra",
+      "data": "2026-08-06",
       "tipo": "verdetto",
       "severita": "positivo",
       "titolo": "centrodestra: 217 seggi, P(maggioranza) 76%",
@@ -51,42 +51,42 @@
       }
     },
     {
-      "id": "2026-08-05:momentum:Lega",
-      "data": "2026-08-05",
+      "id": "2026-08-06:momentum:Lega",
+      "data": "2026-08-06",
       "tipo": "momentum",
       "severita": "attenzione",
-      "titolo": "Lega ▼ 0,9pt in 30 giorni",
-      "testo": "Lega scende di 0,9 punti rispetto a un mese fa, ora al 5,5% nella supermedia,",
+      "titolo": "Lega ▼ 1,2pt in 30 giorni",
+      "testo": "Lega scende di 1,2 punti rispetto a un mese fa, ora al 5,5% nella supermedia,",
       "valore": "5,5%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Lega",
         "quota": 5.5,
-        "momentum": -0.9,
+        "momentum": -1.2,
         "sale": false
       }
     },
     {
-      "id": "2026-08-05:momentum:Partito Democratico",
-      "data": "2026-08-05",
+      "id": "2026-08-06:momentum:Partito Democratico",
+      "data": "2026-08-06",
       "tipo": "momentum",
       "severita": "positivo",
-      "titolo": "Partito Democratico ▲ 0,8pt in 30 giorni",
-      "testo": "Partito Democratico sale di 0,8 punti rispetto a un mese fa, ora al 21,1% nella supermedia,",
+      "titolo": "Partito Democratico ▲ 1,1pt in 30 giorni",
+      "testo": "Partito Democratico sale di 1,1 punti rispetto a un mese fa, ora al 21,1% nella supermedia,",
       "valore": "21,1%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Partito Democratico",
         "quota": 21.1,
-        "momentum": 0.8,
+        "momentum": 1.1,
         "sale": true
       }
     },
     {
-      "id": "2026-08-05:leader:Fratelli d'Italia",
-      "data": "2026-08-05",
+      "id": "2026-08-06:leader:Fratelli d'Italia",
+      "data": "2026-08-06",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,9%",
