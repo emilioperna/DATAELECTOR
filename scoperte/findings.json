@@ -1,11 +1,11 @@
 {
-  "generato": "2026-08-11T07:00:34",
-  "data": "2026-08-11",
+  "generato": "2026-08-12T05:00:23",
+  "data": "2026-08-12",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-08-11:verdetto:centrodestra",
-      "data": "2026-08-11",
+      "id": "2026-08-12:verdetto:centrodestra",
+      "data": "2026-08-12",
       "tipo": "verdetto",
       "severita": "positivo",
       "titolo": "centrodestra: 210 seggi, P(maggioranza) 65%",
@@ -51,8 +51,8 @@
       }
     },
     {
-      "id": "2026-08-11:momentum:Lega",
-      "data": "2026-08-11",
+      "id": "2026-08-12:momentum:Lega",
+      "data": "2026-08-12",
       "tipo": "momentum",
       "severita": "attenzione",
       "titolo": "Lega ▼ 1,8pt in 30 giorni",
@@ -68,25 +68,25 @@
       }
     },
     {
-      "id": "2026-08-11:momentum:Partito Democratico",
-      "data": "2026-08-11",
+      "id": "2026-08-12:momentum:Partito Democratico",
+      "data": "2026-08-12",
       "tipo": "momentum",
       "severita": "positivo",
-      "titolo": "Partito Democratico ▲ 1,5pt in 30 giorni",
-      "testo": "Partito Democratico sale di 1,5 punti rispetto a un mese fa, ora al 21,9% nella supermedia,",
+      "titolo": "Partito Democratico ▲ 1,6pt in 30 giorni",
+      "testo": "Partito Democratico sale di 1,6 punti rispetto a un mese fa, ora al 21,9% nella supermedia,",
       "valore": "21,9%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Partito Democratico",
         "quota": 21.9,
-        "momentum": 1.5,
+        "momentum": 1.6,
         "sale": true
       }
     },
     {
-      "id": "2026-08-11:leader:Fratelli d'Italia",
-      "data": "2026-08-11",
+      "id": "2026-08-12:leader:Fratelli d'Italia",
+      "data": "2026-08-12",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,4%",
