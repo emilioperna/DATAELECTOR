@@ -1,40 +1,40 @@
 {
-  "generato": "2026-08-12T05:00:23",
-  "data": "2026-08-12",
+  "generato": "2026-08-13T05:00:23",
+  "data": "2026-08-13",
   "n": 4,
   "scoperte": [
     {
-      "id": "2026-08-12:verdetto:centrodestra",
-      "data": "2026-08-12",
+      "id": "2026-08-13:verdetto:centrodestra",
+      "data": "2026-08-13",
       "tipo": "verdetto",
       "severita": "positivo",
-      "titolo": "centrodestra: 210 seggi, P(maggioranza) 65%",
-      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~210 seggi (banda 166–249). Probabilità di maggioranza 65%, probabilità di stallo 35%.",
+      "titolo": "centrodestra: 209 seggi, P(maggioranza) 65%",
+      "testo": "Se si votasse oggi, centrodestra guiderebbe con ~209 seggi (banda 164–247). Probabilità di maggioranza 65%, probabilità di stallo 35%.",
       "valore": "65%",
       "permalink": "#/previsione/seggi",
       "card": {
         "variante": "verdetto",
         "guida": "centrodestra",
-        "p_maggioranza": 0.65,
-        "p_stallo": 0.348,
+        "p_maggioranza": 0.648,
+        "p_stallo": 0.35,
         "coalizioni": [
           {
             "nome": "centrodestra",
-            "medio": 209.7,
-            "p5": 166,
-            "p95": 249,
-            "p_maggioranza": 0.65
+            "medio": 208.9,
+            "p5": 164,
+            "p95": 247,
+            "p_maggioranza": 0.648
           },
           {
             "nome": "centrosinistra",
-            "medio": 118.3,
-            "p5": 81,
-            "p95": 161,
-            "p_maggioranza": 0.001
+            "medio": 119.2,
+            "p5": 83,
+            "p95": 162,
+            "p_maggioranza": 0.002
           },
           {
             "nome": "m5s",
-            "medio": 32.0,
+            "medio": 32.2,
             "p5": 22,
             "p95": 44,
             "p_maggioranza": 0.0
@@ -43,50 +43,50 @@
             "nome": "futuro_nazionale",
             "medio": 19.9,
             "p5": 12,
-            "p95": 28,
+            "p95": 27,
             "p_maggioranza": 0.0
           }
         ],
-        "altre_medio": 12.0
+        "altre_medio": 11.9
       }
     },
     {
-      "id": "2026-08-12:momentum:Lega",
-      "data": "2026-08-12",
+      "id": "2026-08-13:momentum:Lega",
+      "data": "2026-08-13",
       "tipo": "momentum",
       "severita": "attenzione",
-      "titolo": "Lega ▼ 1,8pt in 30 giorni",
-      "testo": "Lega scende di 1,8 punti rispetto a un mese fa, ora al 4,9% nella supermedia,",
+      "titolo": "Lega ▼ 1,9pt in 30 giorni",
+      "testo": "Lega scende di 1,9 punti rispetto a un mese fa, ora al 4,9% nella supermedia,",
       "valore": "4,9%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Lega",
         "quota": 4.9,
-        "momentum": -1.8,
+        "momentum": -1.9,
         "sale": false
       }
     },
     {
-      "id": "2026-08-12:momentum:Partito Democratico",
-      "data": "2026-08-12",
+      "id": "2026-08-13:momentum:Partito Democratico",
+      "data": "2026-08-13",
       "tipo": "momentum",
       "severita": "positivo",
-      "titolo": "Partito Democratico ▲ 1,6pt in 30 giorni",
-      "testo": "Partito Democratico sale di 1,6 punti rispetto a un mese fa, ora al 21,9% nella supermedia,",
+      "titolo": "Partito Democratico ▲ 1,7pt in 30 giorni",
+      "testo": "Partito Democratico sale di 1,7 punti rispetto a un mese fa, ora al 21,9% nella supermedia,",
       "valore": "21,9%",
       "permalink": "#/supermedia",
       "card": {
         "variante": "momentum",
         "partito": "Partito Democratico",
         "quota": 21.9,
-        "momentum": 1.6,
+        "momentum": 1.7,
         "sale": true
       }
     },
     {
-      "id": "2026-08-12:leader:Fratelli d'Italia",
-      "data": "2026-08-12",
+      "id": "2026-08-13:leader:Fratelli d'Italia",
+      "data": "2026-08-13",
       "tipo": "leader",
       "severita": "info",
       "titolo": "Fratelli d'Italia primo partito al 26,4%",
